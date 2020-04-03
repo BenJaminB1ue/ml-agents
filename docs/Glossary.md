@@ -19,7 +19,6 @@
   Corresponds to each `Update` call of the game engine.
 * **Observation** - Partial information describing the state of the environment
   available to a given agent. (e.g. Vector, Visual)
-* **Policy** - Function for producing decisions from observations.
 * **Reward** - Signal provided at every step used to indicate desirability of an
   agent’s action within the current state of the environment.
 * **State** - The underlying properties of the environment (including all agents
